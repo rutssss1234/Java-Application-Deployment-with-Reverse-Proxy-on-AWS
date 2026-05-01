@@ -98,6 +98,7 @@ Backend Security Group
 https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/2b6e19ddefe7715462a37e810ded9ad950ded721/backend%20server%20securtity%20gropus.jpeg
 
 Changes to be done in Proxy Sg 
+https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/b6e445913520d0c6ed304102758ecc6e41d24306/proxy%20server%20sg%20.jpeg
 
 
 
