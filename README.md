@@ -94,6 +94,12 @@ https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on
 ✅ Application UI via Proxy Successfully Done
 https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/a051cfd3d59a1438926dc0e31813d632a7c8987b/successful.jpeg
 
+Backend Security Group
+https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/2b6e19ddefe7715462a37e810ded9ad950ded721/backend%20server%20securtity%20gropus.jpeg
+
+Changes to be done in Proxy Sg 
+
+
 
 
 
