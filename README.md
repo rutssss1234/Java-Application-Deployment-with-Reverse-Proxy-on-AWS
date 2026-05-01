@@ -92,6 +92,7 @@ https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on
 https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/cf65c7e4a4464f5b255b585a7baddc26d266ad31/%E2%9C%85%20Application%20UI%20via%20Proxy.jpeg
 
 ✅ Application UI via Proxy Successfully Done
+https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/a051cfd3d59a1438926dc0e31813d632a7c8987b/successful.jpeg
 
 
 
