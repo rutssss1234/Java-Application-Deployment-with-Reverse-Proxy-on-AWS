@@ -12,3 +12,5 @@ Database access is restricted
 All traffic flows through a controlled entry point
 🏗 Architecture
 
+https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/main/Screenshot%202026-05-01%20111324.png?raw=true
+
