@@ -85,7 +85,11 @@ http://<Proxy-Public-IP>/student
 
 📸 Screenshots
 
+✅ Running EC2 Instances
 https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/640fce8779ea8f60ef3f2ef06646a10d4a4c956d/running%20backend%20server.jpeg
+
+✅ Application UI via Proxy
+
 
 
 
