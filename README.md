@@ -100,6 +100,9 @@ https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on
 Changes to be done in Proxy Sg 
 https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/b6e445913520d0c6ed304102758ecc6e41d24306/proxy%20server%20sg%20.jpeg
 
+RDS Security group
+https://github.com/rutssss1234/Java-Application-Deployment-with-Reverse-Proxy-on-AWS/blob/73d23380ea46c47f659609df0fc8fafc0c512e2a/RDS%20Security%20group.jpeg
+
 
 
 
